@@ -1,4 +1,5 @@
 /****************************************
+*   Ver 1.1
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
 *   www.algorytm.org                    *
